@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hello! I'm Matheus! 🎆
+
+
+- Currently working on a workout tracker, in order to learn new Python frameworks! 🐍
+- My area of interest is, mainly, **Data Science**! ⚛️
+- Computer Engineer student! 🖥️
+
+
+## Github Stats! 🐈‍⬛
+<a href="https://github.com/PurpleLobster31" style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=PurpleLobster31&show_icons=true&theme=chartreuse-dark" alt="Matheus's GitHub stats" width="400px" height="195px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurpleLobster31&layout=compact&theme=chartreuse-dark" alt="Joao´s Top Langs" width="400px" height="195px"> 
+</a>
+
+## Contact Me! ✉️
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-mendonça-lopes-ba3948187/)
 
 <!--
 **PurpleLobster31/PurpleLobster31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
