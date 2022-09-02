@@ -8,8 +8,8 @@
 
 ## Github Stats! 🐈‍⬛
 <a href="https://github.com/PurpleLobster31" style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=PurpleLobster31&show_icons=true&theme=chartreuse-dark" alt="Matheus's GitHub stats" width="400px" height="195px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurpleLobster31&layout=compact&theme=chartreuse-dark" alt="Joao´s Top Langs" width="400px" height="195px"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=PurpleLobster31&show_icons=true&theme=dracula" alt="Matheus' GitHub stats" width="400px" height="195px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurpleLobster31&layout=compact&theme=dracula" alt="Matheus' Top Languages" width="400px" height="195px"> 
 </a>
 
 ## Contact Me! ✉️
