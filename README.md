@@ -3,7 +3,7 @@
 
 - Currently working on a workout tracker, in order to learn new Python frameworks! 🐍
 - My area of interest is, mainly, **Data Science**! ⚛️
-- Computer Engineer student! 🖥️
+- Computer Science student! 🖥️
 
 
 ## Github Stats! 🐈‍⬛
