@@ -1,7 +1,6 @@
 ### Hello! I'm Matheus! 🎆
 
 
-- Currently working on a workout tracker, in order to learn new Python frameworks! 🐍
 - My area of interest is, mainly, **Data Science**! ⚛️
 - Computer Science student! 🖥️
 
